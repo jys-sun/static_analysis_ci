@@ -1,12 +1,8 @@
-# ECE444 PRA7 — Static Analysis and CI with Ruff
-
-Fork this repository to begin the practical. The starter includes a calculator,
-two tests, and pinned development dependencies. You will configure Ruff,
-pre-commit, and GitHub Actions during the lab.
+Static Analysis and CI with Ruff
 
 ## Environment
 
-This lab was tested with **Python 3.15.2**. The commands below use Python 3.15.
+This practice is with **Python 3.15.2**. The commands below use Python 3.15.
 
 ## Start
 
