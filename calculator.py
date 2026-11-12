@@ -8,5 +8,5 @@ def record(value, history=None):
     history.append(value)
 
 
-def broken_total():
-    return missing_total
+def broken_total(x, y):
+    return x * 7
